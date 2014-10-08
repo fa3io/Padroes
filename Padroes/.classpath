@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Bridge"/>
+	<classpathentry kind="src" path="Factory Method"/>
+	<classpathentry kind="src" path="Court - Facade"/>
+	<classpathentry kind="src" path="Central telefonica Observer"/>
+	<classpathentry kind="src" path="Adapter"/>
+	<classpathentry kind="src" path="Builder"/>
+	<classpathentry kind="src" path="Factory"/>
+	<classpathentry kind="src" path="Singleton"/>
+	<classpathentry kind="src" path="Template Method"/>
+	<classpathentry kind="src" path="Composit"/>
+	<classpathentry kind="src" path="Strategy"/>
+	<classpathentry kind="src" path="Decorator"/>
+	<classpathentry kind="src" path="Command"/>
+	<classpathentry kind="src" path="state"/>
+	<classpathentry kind="src" path="Iterator"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
